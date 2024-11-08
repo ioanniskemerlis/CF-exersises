@@ -1,0 +1,14 @@
+D:\CODING FACTORY\c# projects\CodingFactory6\DataTypes\bin\Debug\net8.0\DataTypes.exe
+D:\CODING FACTORY\c# projects\CodingFactory6\DataTypes\bin\Debug\net8.0\DataTypes.deps.json
+D:\CODING FACTORY\c# projects\CodingFactory6\DataTypes\bin\Debug\net8.0\DataTypes.runtimeconfig.json
+D:\CODING FACTORY\c# projects\CodingFactory6\DataTypes\bin\Debug\net8.0\DataTypes.dll
+D:\CODING FACTORY\c# projects\CodingFactory6\DataTypes\bin\Debug\net8.0\DataTypes.pdb
+D:\CODING FACTORY\c# projects\CodingFactory6\DataTypes\obj\Debug\net8.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING FACTORY\c# projects\CodingFactory6\DataTypes\obj\Debug\net8.0\DataTypes.AssemblyInfoInputs.cache
+D:\CODING FACTORY\c# projects\CodingFactory6\DataTypes\obj\Debug\net8.0\DataTypes.AssemblyInfo.cs
+D:\CODING FACTORY\c# projects\CodingFactory6\DataTypes\obj\Debug\net8.0\DataTypes.csproj.CoreCompileInputs.cache
+D:\CODING FACTORY\c# projects\CodingFactory6\DataTypes\obj\Debug\net8.0\DataTypes.dll
+D:\CODING FACTORY\c# projects\CodingFactory6\DataTypes\obj\Debug\net8.0\refint\DataTypes.dll
+D:\CODING FACTORY\c# projects\CodingFactory6\DataTypes\obj\Debug\net8.0\DataTypes.pdb
+D:\CODING FACTORY\c# projects\CodingFactory6\DataTypes\obj\Debug\net8.0\DataTypes.genruntimeconfig.cache
+D:\CODING FACTORY\c# projects\CodingFactory6\DataTypes\obj\Debug\net8.0\ref\DataTypes.dll

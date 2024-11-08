@@ -1,0 +1,14 @@
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboWithArray\bin\Debug\net8.0\FiboWithArray.exe
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboWithArray\bin\Debug\net8.0\FiboWithArray.deps.json
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboWithArray\bin\Debug\net8.0\FiboWithArray.runtimeconfig.json
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboWithArray\bin\Debug\net8.0\FiboWithArray.dll
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboWithArray\bin\Debug\net8.0\FiboWithArray.pdb
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboWithArray\obj\Debug\net8.0\FiboWithArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboWithArray\obj\Debug\net8.0\FiboWithArray.AssemblyInfoInputs.cache
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboWithArray\obj\Debug\net8.0\FiboWithArray.AssemblyInfo.cs
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboWithArray\obj\Debug\net8.0\FiboWithArray.csproj.CoreCompileInputs.cache
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboWithArray\obj\Debug\net8.0\FiboWithArray.dll
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboWithArray\obj\Debug\net8.0\refint\FiboWithArray.dll
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboWithArray\obj\Debug\net8.0\FiboWithArray.pdb
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboWithArray\obj\Debug\net8.0\FiboWithArray.genruntimeconfig.cache
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboWithArray\obj\Debug\net8.0\ref\FiboWithArray.dll

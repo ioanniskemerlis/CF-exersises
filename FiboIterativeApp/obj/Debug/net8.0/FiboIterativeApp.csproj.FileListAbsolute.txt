@@ -1,0 +1,14 @@
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboIterativeApp\obj\Debug\net8.0\FiboIterativeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboIterativeApp\obj\Debug\net8.0\FiboIterativeApp.AssemblyInfoInputs.cache
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboIterativeApp\obj\Debug\net8.0\FiboIterativeApp.AssemblyInfo.cs
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboIterativeApp\obj\Debug\net8.0\FiboIterativeApp.csproj.CoreCompileInputs.cache
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboIterativeApp\bin\Debug\net8.0\FiboIterativeApp.exe
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboIterativeApp\bin\Debug\net8.0\FiboIterativeApp.deps.json
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboIterativeApp\bin\Debug\net8.0\FiboIterativeApp.runtimeconfig.json
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboIterativeApp\bin\Debug\net8.0\FiboIterativeApp.dll
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboIterativeApp\bin\Debug\net8.0\FiboIterativeApp.pdb
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboIterativeApp\obj\Debug\net8.0\FiboIterativeApp.dll
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboIterativeApp\obj\Debug\net8.0\refint\FiboIterativeApp.dll
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboIterativeApp\obj\Debug\net8.0\FiboIterativeApp.pdb
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboIterativeApp\obj\Debug\net8.0\FiboIterativeApp.genruntimeconfig.cache
+D:\CODING FACTORY\c# projects\CodingFactory6\FiboIterativeApp\obj\Debug\net8.0\ref\FiboIterativeApp.dll

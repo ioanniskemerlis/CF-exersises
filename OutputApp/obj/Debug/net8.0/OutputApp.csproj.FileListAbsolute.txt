@@ -1,0 +1,14 @@
+D:\CODING FACTORY\c# projects\CodingFactory6\OutputApp\bin\Debug\net8.0\OutputApp.exe
+D:\CODING FACTORY\c# projects\CodingFactory6\OutputApp\bin\Debug\net8.0\OutputApp.deps.json
+D:\CODING FACTORY\c# projects\CodingFactory6\OutputApp\bin\Debug\net8.0\OutputApp.runtimeconfig.json
+D:\CODING FACTORY\c# projects\CodingFactory6\OutputApp\bin\Debug\net8.0\OutputApp.dll
+D:\CODING FACTORY\c# projects\CodingFactory6\OutputApp\bin\Debug\net8.0\OutputApp.pdb
+D:\CODING FACTORY\c# projects\CodingFactory6\OutputApp\obj\Debug\net8.0\OutputApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING FACTORY\c# projects\CodingFactory6\OutputApp\obj\Debug\net8.0\OutputApp.AssemblyInfoInputs.cache
+D:\CODING FACTORY\c# projects\CodingFactory6\OutputApp\obj\Debug\net8.0\OutputApp.AssemblyInfo.cs
+D:\CODING FACTORY\c# projects\CodingFactory6\OutputApp\obj\Debug\net8.0\OutputApp.csproj.CoreCompileInputs.cache
+D:\CODING FACTORY\c# projects\CodingFactory6\OutputApp\obj\Debug\net8.0\OutputApp.dll
+D:\CODING FACTORY\c# projects\CodingFactory6\OutputApp\obj\Debug\net8.0\refint\OutputApp.dll
+D:\CODING FACTORY\c# projects\CodingFactory6\OutputApp\obj\Debug\net8.0\OutputApp.pdb
+D:\CODING FACTORY\c# projects\CodingFactory6\OutputApp\obj\Debug\net8.0\OutputApp.genruntimeconfig.cache
+D:\CODING FACTORY\c# projects\CodingFactory6\OutputApp\obj\Debug\net8.0\ref\OutputApp.dll

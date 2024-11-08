@@ -1,0 +1,14 @@
+D:\CODING FACTORY\c# projects\CodingFactory6\Max2x2App\bin\Debug\net8.0\Max2x2App.exe
+D:\CODING FACTORY\c# projects\CodingFactory6\Max2x2App\bin\Debug\net8.0\Max2x2App.deps.json
+D:\CODING FACTORY\c# projects\CodingFactory6\Max2x2App\bin\Debug\net8.0\Max2x2App.runtimeconfig.json
+D:\CODING FACTORY\c# projects\CodingFactory6\Max2x2App\bin\Debug\net8.0\Max2x2App.dll
+D:\CODING FACTORY\c# projects\CodingFactory6\Max2x2App\bin\Debug\net8.0\Max2x2App.pdb
+D:\CODING FACTORY\c# projects\CodingFactory6\Max2x2App\obj\Debug\net8.0\Max2x2App.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING FACTORY\c# projects\CodingFactory6\Max2x2App\obj\Debug\net8.0\Max2x2App.AssemblyInfoInputs.cache
+D:\CODING FACTORY\c# projects\CodingFactory6\Max2x2App\obj\Debug\net8.0\Max2x2App.AssemblyInfo.cs
+D:\CODING FACTORY\c# projects\CodingFactory6\Max2x2App\obj\Debug\net8.0\Max2x2App.csproj.CoreCompileInputs.cache
+D:\CODING FACTORY\c# projects\CodingFactory6\Max2x2App\obj\Debug\net8.0\Max2x2App.dll
+D:\CODING FACTORY\c# projects\CodingFactory6\Max2x2App\obj\Debug\net8.0\refint\Max2x2App.dll
+D:\CODING FACTORY\c# projects\CodingFactory6\Max2x2App\obj\Debug\net8.0\Max2x2App.pdb
+D:\CODING FACTORY\c# projects\CodingFactory6\Max2x2App\obj\Debug\net8.0\Max2x2App.genruntimeconfig.cache
+D:\CODING FACTORY\c# projects\CodingFactory6\Max2x2App\obj\Debug\net8.0\ref\Max2x2App.dll

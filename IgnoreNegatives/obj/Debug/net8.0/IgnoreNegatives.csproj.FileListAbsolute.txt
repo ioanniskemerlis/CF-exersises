@@ -1,0 +1,14 @@
+D:\CODING FACTORY\c# projects\CodingFactory6\IgnoreNegatives\bin\Debug\net8.0\IgnoreNegatives.exe
+D:\CODING FACTORY\c# projects\CodingFactory6\IgnoreNegatives\bin\Debug\net8.0\IgnoreNegatives.deps.json
+D:\CODING FACTORY\c# projects\CodingFactory6\IgnoreNegatives\bin\Debug\net8.0\IgnoreNegatives.runtimeconfig.json
+D:\CODING FACTORY\c# projects\CodingFactory6\IgnoreNegatives\bin\Debug\net8.0\IgnoreNegatives.dll
+D:\CODING FACTORY\c# projects\CodingFactory6\IgnoreNegatives\bin\Debug\net8.0\IgnoreNegatives.pdb
+D:\CODING FACTORY\c# projects\CodingFactory6\IgnoreNegatives\obj\Debug\net8.0\IgnoreNegatives.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING FACTORY\c# projects\CodingFactory6\IgnoreNegatives\obj\Debug\net8.0\IgnoreNegatives.AssemblyInfoInputs.cache
+D:\CODING FACTORY\c# projects\CodingFactory6\IgnoreNegatives\obj\Debug\net8.0\IgnoreNegatives.AssemblyInfo.cs
+D:\CODING FACTORY\c# projects\CodingFactory6\IgnoreNegatives\obj\Debug\net8.0\IgnoreNegatives.csproj.CoreCompileInputs.cache
+D:\CODING FACTORY\c# projects\CodingFactory6\IgnoreNegatives\obj\Debug\net8.0\IgnoreNegatives.dll
+D:\CODING FACTORY\c# projects\CodingFactory6\IgnoreNegatives\obj\Debug\net8.0\refint\IgnoreNegatives.dll
+D:\CODING FACTORY\c# projects\CodingFactory6\IgnoreNegatives\obj\Debug\net8.0\IgnoreNegatives.pdb
+D:\CODING FACTORY\c# projects\CodingFactory6\IgnoreNegatives\obj\Debug\net8.0\IgnoreNegatives.genruntimeconfig.cache
+D:\CODING FACTORY\c# projects\CodingFactory6\IgnoreNegatives\obj\Debug\net8.0\ref\IgnoreNegatives.dll

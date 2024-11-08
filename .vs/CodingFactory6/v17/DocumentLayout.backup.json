@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODING FACTORY\\c# projects\\CodingFactory6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A66E9ACA-E275-42F0-9A42-93932218A00F}|Max2x2App\\Max2x2App.csproj|d:\\coding factory\\c# projects\\codingfactory6\\max2x2app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66E9ACA-E275-42F0-9A42-93932218A00F}|Max2x2App\\Max2x2App.csproj|solutionrelative:max2x2app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODING FACTORY\\c# projects\\CodingFactory6\\Max2x2App\\Program.cs",
+              "RelativeDocumentMoniker": "Max2x2App\\Program.cs",
+              "ToolTip": "D:\\CODING FACTORY\\c# projects\\CodingFactory6\\Max2x2App\\Program.cs",
+              "RelativeToolTip": "Max2x2App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:23:40.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
